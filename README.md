@@ -1,4 +1,4 @@
-# Nature tour booking app
+# Nature tour booking page
 
 Demo: https://jimousse.github.io/nature-tour-app/
 
