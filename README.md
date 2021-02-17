@@ -10,5 +10,6 @@ It uses:
 - BEM methodology
 - 7-1 pattern folder architecture
 - CSS animations
+- responsive layout using media queries
 
 This is a static page, no JavaScript runs on this project.
